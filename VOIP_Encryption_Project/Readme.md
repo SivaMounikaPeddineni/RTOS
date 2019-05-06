@@ -24,7 +24,7 @@ Following are steps to implement VOIP call with Encryption
 
 -Recorded the voice using pulse audio
 
--Encrypted packets using AES technique rijndael-128 alogorithm(key is 128bits length) 
+-Encrypted packets using AES technique rijndael-128 algorithm(key is 128bits length) 
 
 -Send the encoded packets to server (packet size = 10024)
 
