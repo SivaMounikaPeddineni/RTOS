@@ -1,5 +1,5 @@
 
-# **VOIP With AES Ecnryption**
+# **VOIP With AES Encryption**
 
 ## **Problem**
 The following are the problems with cellular telephone
